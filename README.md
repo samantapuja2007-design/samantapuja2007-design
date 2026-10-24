@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Puja Samanta 👋
 
-<!--
-**samantapuja2007-design/samantapuja2007-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ A Passionate Designer from Kolkata
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=samantapuja2007-design&color=ff69b4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎨 I love Design & Creativity
+- 🌱 Currently learning GitHub
+- 📍 From Kolkata, West Bengal, India
+- ✨ My Goal: To become a professional Designer
+
+### 🛠️ My Skills
+- Design
+- Creativity
+- GitHub
+
+### 📫 Connect with Me
+Find me on GitHub: @samantapuja2007-design
+
+---
+⭐ Thanks for visiting my profile!
